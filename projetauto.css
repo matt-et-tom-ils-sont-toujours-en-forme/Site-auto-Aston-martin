@@ -1,0 +1,10 @@
+body {background-color: black;
+
+}
+
+#amlogo { display: flexbox;
+    height: 20vw; width: 40vw;
+   margin-top: -60px;
+
+
+}
