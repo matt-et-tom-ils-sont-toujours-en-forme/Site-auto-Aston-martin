@@ -1,0 +1,155 @@
+body {
+    background-image: url(https://i.ibb.co/rHzMvmG/aston.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height:100%;
+    width: 100%;
+    
+}
+
+#titre{
+    color:white;
+    opacity: 100%;
+   
+Font-family:  "Verdana", Arial, sans-serif;
+   margin-left: 9%;
+   margin-right: 0;
+
+}
+h1 {
+    font-size: 45px;
+
+}
+.modele{
+    font-size: 25px;
+    font-style: italic;
+    color: #000000;
+   text-align: justify;
+    
+   
+}
+
+
+
+
+#amlogo{
+    width: 30%;
+    height: 50%;
+    
+
+
+}
+#Texte {
+    
+  margin:0 30% 20% 10%;
+  color: white;
+
+    
+}
+input{
+    width: 70%;
+    padding: 3%;
+    margin: 10px 10px 10px 0;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    opacity: 80%;
+}
+
+    
+
+#policy{
+  
+  width: auto;
+}
+#conditions {
+    font-size: 19px;
+    color: black;
+
+}
+a{
+    text-decoration: none ;
+    color:white;
+    border:solid black 1px;
+    background-color: black;
+}
+
+
+#mc-embedded-subscribe{
+    width: 50%;
+    opacity: 100%;
+
+
+}
+#mc-embedded-subscribe:hover{
+    background-color:#ffffff;
+    color: #000000;
+}
+
+label{
+    display: none;
+}
+#policy{
+    display: inline;
+}
+
+
+
+
+
+
+
+
+
+/* Footer  */
+footer{
+    width: 100%;
+    margin: 20% 0 20% 0 ;
+       
+     
+
+    background-color: black;
+    position: absolute;
+
+}
+footer hr{
+    width:20%;
+    margin: 4% auto ;
+}
+footer ul{
+    list-style-type: none;
+}
+
+footer li{
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+
+
+footer ul::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+footer a{
+    display: block;
+    text-decoration: none;
+    color:gray;
+    border: 2px solid transparent;
+    padding: 10px 0px;
+}
+
+footer a:hover{
+    color: white;
+    border: 2px solid white;
+    opacity: 90%;
+   
+    padding: 4%;
+}
+.hidden{
+    display: none;
+}
